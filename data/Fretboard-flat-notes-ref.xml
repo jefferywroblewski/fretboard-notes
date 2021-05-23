@@ -211,6 +211,11 @@
    </note>
   </measure>
   <measure number="2" id="Bflat-up">
+   <direction>
+    <direction-type>
+     <words>Bb ↑</words>
+    </direction-type>
+   </direction>
    <attributes>
     <key>
      <fifths>-1</fifths>
@@ -446,6 +451,11 @@
    </note>
   </measure>
   <measure number="3" id="Bflat-down">
+   <direction>
+    <direction-type>
+     <words>Bb ↓</words>
+    </direction-type>
+   </direction>
    <attributes>
     <key>
      <fifths>-1</fifths>
@@ -681,6 +691,11 @@
    </note>
   </measure>
   <measure number="4" id="Eflat-up">
+   <direction>
+    <direction-type>
+     <words>Eb ↑</words>
+    </direction-type>
+   </direction>
    <attributes>
     <key>
      <fifths>-2</fifths>
@@ -917,6 +932,11 @@
   </measure>
   <measure number="5" id="Eflat-down">
    <print new-system="yes"/>
+   <direction>
+    <direction-type>
+     <words>Eb ↓</words>
+    </direction-type>
+   </direction>
    <attributes>
     <key>
      <fifths>-2</fifths>
@@ -1152,6 +1172,11 @@
    </note>
   </measure>
   <measure number="6" id="Aflat-up">
+   <direction>
+    <direction-type>
+     <words>Ab ↑</words>
+    </direction-type>
+   </direction>
    <attributes>
     <key>
      <fifths>-3</fifths>
@@ -1387,6 +1412,11 @@
    </note>
   </measure>
   <measure number="7" id="Aflat-down">
+   <direction>
+    <direction-type>
+     <words>Ab ↓</words>
+    </direction-type>
+   </direction>
    <attributes>
     <key>
      <fifths>-3</fifths>
@@ -1622,6 +1652,11 @@
    </note>
   </measure>
   <measure number="8" id="Dflat-up">
+   <direction>
+    <direction-type>
+     <words>Db ↑</words>
+    </direction-type>
+   </direction>
    <attributes>
     <key>
      <fifths>-4</fifths>
@@ -1851,6 +1886,11 @@
    </note>
   </measure>
   <measure number="9" id="Dflat-down">
+   <direction>
+    <direction-type>
+     <words>Db ↓</words>
+    </direction-type>
+   </direction>
    <attributes>
     <key>
      <fifths>-4</fifths>
@@ -2080,6 +2120,11 @@
    </note>
   </measure>
   <measure number="10" id="Gflat-up">
+   <direction>
+    <direction-type>
+     <words>Gb ↑</words>
+    </direction-type>
+   </direction>
    <attributes>
     <key>
      <fifths>-5</fifths>
@@ -2309,6 +2354,11 @@
    </note>
   </measure>
   <measure number="11" id="Gflat-down">
+   <direction>
+    <direction-type>
+     <words>Gb ↓</words>
+    </direction-type>
+   </direction>
    <attributes>
     <key>
      <fifths>-5</fifths>

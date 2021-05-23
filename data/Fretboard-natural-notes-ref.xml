@@ -211,6 +211,11 @@
    </note>
   </measure>
   <measure number="2" id="A-up">
+   <direction>
+    <direction-type>
+     <words>A ↑</words>
+    </direction-type>
+   </direction>
    <attributes>
     <key>
      <fifths>0</fifths>
@@ -428,6 +433,11 @@
    </note>
   </measure>
   <measure number="3" id="A-down">
+   <direction>
+    <direction-type>
+     <words>A ↓</words>
+    </direction-type>
+   </direction>
    <attributes>
     <key>
      <fifths>0</fifths>
@@ -645,6 +655,11 @@
    </note>
   </measure>
   <measure number="4" id="B-up">
+   <direction>
+    <direction-type>
+     <words>B ↑</words>
+    </direction-type>
+   </direction>
    <attributes>
     <key>
      <fifths>0</fifths>
@@ -863,6 +878,11 @@
   </measure>
   <measure number="5" id="B-down">
    <print new-system="yes"/>
+   <direction>
+    <direction-type>
+     <words>B ↓</words>
+    </direction-type>
+   </direction>
    <attributes>
     <key>
      <fifths>0</fifths>
@@ -1080,6 +1100,11 @@
    </note>
   </measure>
   <measure number="6" id="C-up">
+   <direction>
+    <direction-type>
+     <words>C ↑</words>
+    </direction-type>
+   </direction>
    <attributes>
     <key>
      <fifths>0</fifths>
@@ -1297,6 +1322,11 @@
    </note>
   </measure>
   <measure number="7" id="C-down">
+   <direction>
+    <direction-type>
+     <words>C ↓</words>
+    </direction-type>
+   </direction>
    <attributes>
     <key>
      <fifths>0</fifths>
@@ -1514,6 +1544,11 @@
    </note>
   </measure>
   <measure number="8" id="D-up">
+   <direction>
+    <direction-type>
+     <words>D ↑</words>
+    </direction-type>
+   </direction>
    <attributes>
     <key>
      <fifths>0</fifths>
@@ -1731,6 +1766,11 @@
    </note>
   </measure>
   <measure number="9" id="D-down">
+   <direction>
+    <direction-type>
+     <words>D ↓</words>
+    </direction-type>
+   </direction>
    <attributes>
     <key>
      <fifths>0</fifths>
@@ -1948,6 +1988,11 @@
    </note>
   </measure>
   <measure number="10" id="E-up">
+   <direction>
+    <direction-type>
+     <words>E ↑</words>
+    </direction-type>
+   </direction>
    <attributes>
     <key>
      <fifths>0</fifths>
@@ -2165,6 +2210,11 @@
    </note>
   </measure>
   <measure number="11" id="E-down">
+   <direction>
+    <direction-type>
+     <words>E ↓</words>
+    </direction-type>
+   </direction>
    <attributes>
     <key>
      <fifths>0</fifths>
@@ -2382,6 +2432,11 @@
    </note>
   </measure>
   <measure number="12" id="F-up">
+   <direction>
+    <direction-type>
+     <words>F ↑</words>
+    </direction-type>
+   </direction>
    <attributes>
     <key>
      <fifths>0</fifths>
@@ -2599,6 +2654,11 @@
    </note>
   </measure>
   <measure number="13" id="F-down">
+   <direction>
+    <direction-type>
+     <words>F ↓</words>
+    </direction-type>
+   </direction>
    <attributes>
     <key>
      <fifths>0</fifths>
@@ -2816,6 +2876,11 @@
    </note>
   </measure>
   <measure number="14" id="G-up">
+   <direction>
+    <direction-type>
+     <words>G ↑</words>
+    </direction-type>
+   </direction>
    <attributes>
     <key>
      <fifths>0</fifths>
@@ -3033,6 +3098,11 @@
    </note>
   </measure>
   <measure number="15" id="G-down">
+   <direction>
+    <direction-type>
+     <words>G ↓</words>
+    </direction-type>
+   </direction>
    <attributes>
     <key>
      <fifths>0</fifths>
