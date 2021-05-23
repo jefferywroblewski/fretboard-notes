@@ -26,7 +26,7 @@ Just get the template MusicXml to import and export as-is and make sure it works
 * create a template MusicXml file that has all the required static content 
 * read the template MusicXml from disk
 * convert it to JS  
-* convert it back to an xml string
+* convert it back to a xml string
 * output xml string as a new MusicXml file 
 
 Acceptance Criteria:
@@ -34,7 +34,7 @@ Acceptance Criteria:
 * Guitar Pro displays the content of the MusicXml:
     * Title
     * Sub-title
-    * Tempo is 40 BPM
+    * Tempo will be the GP default because this information is not stored with MusicXml
     * The first measure contains:
         * Time Signature of 6/4
         * Key is C

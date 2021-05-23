@@ -12,7 +12,6 @@
   "dependencies": {
     "xml-js": "^1.6.11"
   },
-  "type": "module",
   "devDependencies": {
     "prettier": "^2.3.0"
   }
