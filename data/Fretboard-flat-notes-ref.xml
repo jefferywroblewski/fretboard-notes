@@ -446,6 +446,12 @@
    </note>
   </measure>
   <measure number="3" id="Bflat-down">
+   <attributes>
+    <key>
+     <fifths>-1</fifths>
+     <mode>major</mode>
+    </key>
+   </attributes>
    <harmony>
     <root>
      <root-step>C</root-step>
@@ -911,6 +917,12 @@
   </measure>
   <measure number="5" id="Eflat-down">
    <print new-system="yes"/>
+   <attributes>
+    <key>
+     <fifths>-2</fifths>
+     <mode>major</mode>
+    </key>
+   </attributes>
    <harmony>
     <root>
      <root-step>C</root-step>
@@ -1375,6 +1387,12 @@
    </note>
   </measure>
   <measure number="7" id="Aflat-down">
+   <attributes>
+    <key>
+     <fifths>-3</fifths>
+     <mode>major</mode>
+    </key>
+   </attributes>
    <harmony>
     <root>
      <root-step>C</root-step>
@@ -1833,6 +1851,12 @@
    </note>
   </measure>
   <measure number="9" id="Dflat-down">
+   <attributes>
+    <key>
+     <fifths>-4</fifths>
+     <mode>major</mode>
+    </key>
+   </attributes>
    <harmony>
     <root>
      <root-step>C</root-step>
@@ -2285,6 +2309,12 @@
    </note>
   </measure>
   <measure number="11" id="Gflat-down">
+   <attributes>
+    <key>
+     <fifths>-5</fifths>
+     <mode>major</mode>
+    </key>
+   </attributes>
    <harmony>
     <root>
      <root-step>C</root-step>
