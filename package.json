@@ -1,0 +1,19 @@
+{
+  "name": "fretboard-notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/app.js",
+  "scripts": {
+    "start": "node app/app.js"
+  },
+  "keywords": [],
+  "author": "Jeffery Wroblewski",
+  "license": "ISC",
+  "dependencies": {
+    "xml-js": "^1.6.11"
+  },
+  "type": "module",
+  "devDependencies": {
+    "prettier": "^2.3.0"
+  }
+}

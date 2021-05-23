@@ -8,9 +8,9 @@
  </work>
  <identification>
   <encoding>
-   <encoding-date>2021-05-22</encoding-date>
+   <encoding-date>2021-05-23</encoding-date>
    <software>Guitar Pro 7.5.5</software>
-   <supports attribute="new-system" value="yes" element="print" type="yes"/>
+   <supports type="yes" element="print" attribute="new-system" value="yes"/>
   </encoding>
  </identification>
  <defaults>
@@ -24,10 +24,10 @@
   </page-layout>
  </defaults>
  <credit>
-  <credit-words valign="top" font-size="24" justify="center">FRETBOARD</credit-words>
+  <credit-words justify="center" font-size="24" valign="top">FRETBOARD</credit-words>
  </credit>
  <credit>
-  <credit-words valign="top" font-size="14" justify="center">Flat (b) Notes</credit-words>
+  <credit-words justify="center" font-size="14" valign="top">Flat (b) Notes ref</credit-words>
  </credit>
  <part-list>
   <score-part id="P1">
@@ -43,11 +43,11 @@
   </score-part>
  </part-list>
  <part id="P1">
-  <measure number="1">
+  <measure number="1" id="header">
    <attributes>
     <divisions>1</divisions>
     <key>
-     <fifths>-1</fifths>
+     <fifths>0</fifths>
      <mode>major</mode>
     </key>
     <time>
@@ -122,6 +122,101 @@
      <octave-change>-1</octave-change>
     </transpose>
    </attributes>
+   <note>
+    <rest/>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <staff>1</staff>
+   </note>
+   <note>
+    <rest/>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <staff>1</staff>
+   </note>
+   <note>
+    <rest/>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <staff>1</staff>
+   </note>
+   <note>
+    <rest/>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <staff>1</staff>
+   </note>
+   <note>
+    <rest/>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <staff>1</staff>
+   </note>
+   <note>
+    <rest/>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <staff>1</staff>
+   </note>
+   <backup>
+    <duration>6</duration>
+   </backup>
+   <note>
+    <rest/>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <staff>2</staff>
+   </note>
+   <note>
+    <rest/>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <staff>2</staff>
+   </note>
+   <note>
+    <rest/>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <staff>2</staff>
+   </note>
+   <note>
+    <rest/>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <staff>2</staff>
+   </note>
+   <note>
+    <rest/>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <staff>2</staff>
+   </note>
+   <note>
+    <rest/>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <staff>2</staff>
+   </note>
+  </measure>
+  <measure number="2" id="Bflat-up">
+   <attributes>
+    <key>
+     <fifths>-1</fifths>
+     <mode>major</mode>
+    </key>
+   </attributes>
    <harmony>
     <root>
      <root-step>C</root-step>
@@ -138,15 +233,6 @@
      </frame-note>
     </frame>
    </harmony>
-   <direction directive="yes">
-    <direction-type>
-     <metronome default-y="40" parentheses="no">
-      <beat-unit>quarter</beat-unit>
-      <per-minute>40</per-minute>
-     </metronome>
-    </direction-type>
-    <sound tempo="40"/>
-   </direction>
    <note>
     <pitch>
      <step>B</step>
@@ -160,11 +246,6 @@
     <stem>up</stem>
     <notehead>normal</notehead>
     <staff>1</staff>
-    <notations>
-     <dynamics>
-      <mf/>
-     </dynamics>
-    </notations>
    </note>
    <note>
     <pitch>
@@ -178,11 +259,6 @@
     <stem>up</stem>
     <notehead>normal</notehead>
     <staff>1</staff>
-    <notations>
-     <dynamics>
-      <mf/>
-     </dynamics>
-    </notations>
    </note>
    <note>
     <pitch>
@@ -197,11 +273,6 @@
     <stem>up</stem>
     <notehead>normal</notehead>
     <staff>1</staff>
-    <notations>
-     <dynamics>
-      <mf/>
-     </dynamics>
-    </notations>
    </note>
    <note>
     <pitch>
@@ -215,11 +286,6 @@
     <stem>up</stem>
     <notehead>normal</notehead>
     <staff>1</staff>
-    <notations>
-     <dynamics>
-      <mf/>
-     </dynamics>
-    </notations>
    </note>
    <note>
     <pitch>
@@ -234,11 +300,6 @@
     <stem>down</stem>
     <notehead>normal</notehead>
     <staff>1</staff>
-    <notations>
-     <dynamics>
-      <mf/>
-     </dynamics>
-    </notations>
    </note>
    <note>
     <pitch>
@@ -252,11 +313,6 @@
     <stem>down</stem>
     <notehead>normal</notehead>
     <staff>1</staff>
-    <notations>
-     <dynamics>
-      <mf/>
-     </dynamics>
-    </notations>
    </note>
    <backup>
     <duration>6</duration>
@@ -290,9 +346,6 @@
     <stem>up</stem>
     <staff>2</staff>
     <notations>
-     <dynamics>
-      <mf/>
-     </dynamics>
      <technical>
       <string>6</string>
       <fret>6</fret>
@@ -311,9 +364,6 @@
     <stem>up</stem>
     <staff>2</staff>
     <notations>
-     <dynamics>
-      <mf/>
-     </dynamics>
      <technical>
       <string>5</string>
       <fret>1</fret>
@@ -333,9 +383,6 @@
     <stem>up</stem>
     <staff>2</staff>
     <notations>
-     <dynamics>
-      <mf/>
-     </dynamics>
      <technical>
       <string>4</string>
       <fret>8</fret>
@@ -354,9 +401,6 @@
     <stem>up</stem>
     <staff>2</staff>
     <notations>
-     <dynamics>
-      <mf/>
-     </dynamics>
      <technical>
       <string>3</string>
       <fret>3</fret>
@@ -376,9 +420,6 @@
     <stem>down</stem>
     <staff>2</staff>
     <notations>
-     <dynamics>
-      <mf/>
-     </dynamics>
      <technical>
       <string>2</string>
       <fret>11</fret>
@@ -397,9 +438,6 @@
     <stem>down</stem>
     <staff>2</staff>
     <notations>
-     <dynamics>
-      <mf/>
-     </dynamics>
      <technical>
       <string>1</string>
       <fret>6</fret>
@@ -407,7 +445,7 @@
     </notations>
    </note>
   </measure>
-  <measure number="2">
+  <measure number="3" id="Bflat-down">
    <harmony>
     <root>
      <root-step>C</root-step>
@@ -636,7 +674,7 @@
     </notations>
    </note>
   </measure>
-  <measure number="3">
+  <measure number="4" id="Eflat-up">
    <attributes>
     <key>
      <fifths>-2</fifths>
@@ -871,7 +909,8 @@
     </notations>
    </note>
   </measure>
-  <measure number="4">
+  <measure number="5" id="Eflat-down">
+   <print new-system="yes"/>
    <harmony>
     <root>
      <root-step>C</root-step>
@@ -1100,8 +1139,7 @@
     </notations>
    </note>
   </measure>
-  <measure number="5">
-   <print new-system="yes"/>
+  <measure number="6" id="Aflat-up">
    <attributes>
     <key>
      <fifths>-3</fifths>
@@ -1336,7 +1374,7 @@
     </notations>
    </note>
   </measure>
-  <measure number="6">
+  <measure number="7" id="Aflat-down">
    <harmony>
     <root>
      <root-step>C</root-step>
@@ -1565,7 +1603,7 @@
     </notations>
    </note>
   </measure>
-  <measure number="7">
+  <measure number="8" id="Dflat-up">
    <attributes>
     <key>
      <fifths>-4</fifths>
@@ -1794,7 +1832,7 @@
     </notations>
    </note>
   </measure>
-  <measure number="8">
+  <measure number="9" id="Dflat-down">
    <harmony>
     <root>
      <root-step>C</root-step>
@@ -2017,7 +2055,7 @@
     </notations>
    </note>
   </measure>
-  <measure number="9">
+  <measure number="10" id="Gflat-up">
    <attributes>
     <key>
      <fifths>-5</fifths>
@@ -2246,7 +2284,7 @@
     </notations>
    </note>
   </measure>
-  <measure number="10">
+  <measure number="11" id="Gflat-down">
    <harmony>
     <root>
      <root-step>C</root-step>
